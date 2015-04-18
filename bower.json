@@ -1,0 +1,14 @@
+{
+  "name": "editable-item",
+  "version": "0.0.0",
+  "authors": [
+    "Blake Lieberman <blake.lieberman@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}

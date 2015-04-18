@@ -1,0 +1,12 @@
+// write an element directive
+//name is makeEditable
+//contenteditable="true" attribute
+
+
+//edit & save button
+  //click the edit button
+    //contenteditable = true
+    //save button appears
+  //click the save button
+    //contenteditable = false
+    //edit button appears
